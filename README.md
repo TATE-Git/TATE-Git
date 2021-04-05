@@ -2,9 +2,9 @@
 
 ![Profile views](https://gpvc.arturio.dev/TATE-Git)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TATE-Git&show_icons=true)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TATE-Git)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TATE-Git&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TATE-Git)  
 
