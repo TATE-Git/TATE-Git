@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=TATE_LOG&fontSize=50&animation=twinkling )
 
-<div align=center>
 ![Profile views](https://gpvc.arturio.dev/TATE-Git)  
-</div>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TATE-Git&show_icons=true)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TATE-Git)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TATE-Git)  
 
