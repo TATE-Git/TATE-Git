@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=170&section=header&text=TATE_LOG&fontSize=50&animation=twinkling"/>
-<br></br>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <br></br>
 <p align="center">
@@ -19,7 +18,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TATE-Git&show_icons=true&theme=radical"/></a>&nbsp 
 </p>
-<br></br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=170&section=footer&text=&&fontSize=50&animation=twinkling"/>
 
 <!--
