@@ -1,14 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=TATE_LOG&fontSize=50&animation=twinkling )
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=170&section=header&text=TATE_LOG&fontSize=50&animation=twinkling )
 
-![Profile views](https://gpvc.arturio.dev/TATE-Git)  
+![TATE-Git's GitHub stats](https://github-readme-stats.vercel.app/api?username=TATE-Git&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TATE-Git)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TATE-Git&color=ffffff)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TATE-Git&show_icons=true)  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTATE-Git&count_bg=%23BDBEBC&title_bg=%23555555&icon=&icon_color=%23FBEC00&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TATE-Git)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=170&section=footer&text=&&fontSize=50&animation=twinkling )
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=footer&text=&&fontSize=50&animation=twinkling )
 
 <!--
 **TATE-Git/TATE-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
